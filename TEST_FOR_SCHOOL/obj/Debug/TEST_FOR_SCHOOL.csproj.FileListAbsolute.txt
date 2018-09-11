@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\bin\Debug\TEST_FOR_SCHOOL.exe.config
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\bin\Debug\TEST_FOR_SCHOOL.exe
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\bin\Debug\TEST_FOR_SCHOOL.pdb
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\obj\Debug\TEST_FOR_SCHOOL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\obj\Debug\TEST_FOR_SCHOOL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\obj\Debug\TEST_FOR_SCHOOL.exe
+C:\Users\Asus\source\repos\TEST_FOR_SCHOOL\TEST_FOR_SCHOOL\obj\Debug\TEST_FOR_SCHOOL.pdb
