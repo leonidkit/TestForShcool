@@ -14,7 +14,17 @@ namespace TEST_FOR_SCHOOL
         public int ReleaseYear
         {
             get { return _releaseYear; }
-            set { _releaseYear = value; }
+            set
+            {
+                if(value >= 1806 && value <= 2018)
+                {
+                    _releaseYear = value;
+                }
+                else
+                {
+                    Console.WriteLine("Car has never been!");
+                }
+            }
         }
 
         public string ModelCar

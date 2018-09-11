@@ -27,7 +27,17 @@ namespace TEST_FOR_SCHOOL
         public int Age
         {
             get { return _age; }
-            set { _age = value; }
+            set
+            {
+                if (value >= 3 && value <= 110)
+                {
+                    _age = value;
+                }
+                else
+                {
+                    Console.WriteLine("You can`t use it app");
+                }
+            }
         }
 
         public Person()

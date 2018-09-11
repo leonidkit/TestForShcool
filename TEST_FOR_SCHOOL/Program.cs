@@ -24,12 +24,9 @@ namespace TEST_FOR_SCHOOL
                     case "D1":
                         if (dataList.Count != 0)
                         {
-                            int count = 1;
-
-                            foreach (Obj objItem in dataList)
+                            for (int i = 0; i < dataList.Count; i++)
                             {
-                                Console.Write(count++ + ". ");
-                                Console.WriteLine(objItem.ToString());
+                                Console.WriteLine((i+1).ToString() + ". " + dataList[i].ToString());
                             }
                             Console.WriteLine();
                         }
@@ -67,11 +64,6 @@ namespace TEST_FOR_SCHOOL
                                     }
                                     else
                                     {
-                                        if(numb > 110 || numb < 4)
-                                        {
-                                            Console.WriteLine("You can`t use it!");
-                                            break;
-                                        }
                                         prsn.Age = numb;
                                     }
 
@@ -92,11 +84,6 @@ namespace TEST_FOR_SCHOOL
                                     }
                                     else
                                     {
-                                        if(numb < 1806 || numb >2018)
-                                        {
-                                            Console.WriteLine("Car has never been!");
-                                            break;
-                                        }
                                         cr.ReleaseYear = numb;
                                     }
 
